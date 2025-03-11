@@ -2,3 +2,8 @@ baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'North Texas Homebrew Circuit'
 theme = "tailbliss"
+
+[markup.goldmark.renderer]
+  hardWraps = false
+  unsafe = true
+  xhtml = false
