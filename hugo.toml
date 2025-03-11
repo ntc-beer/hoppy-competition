@@ -1,0 +1,4 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'North Texas Homebrew Circuit'
+theme = "tailbliss"
