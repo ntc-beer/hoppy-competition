@@ -7,3 +7,13 @@ theme = "tailbliss"
   hardWraps = false
   unsafe = true
   xhtml = false
+
+[menus]
+  [[menus.main]]
+  name = 'About'
+  pageRef = '/about'
+  weight = 10
+  [[menus.main]]
+  name = 'Competitions'
+  pageRef = '/competitions'
+  weight = 20

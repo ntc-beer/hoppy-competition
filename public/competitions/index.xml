@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Competitions on North Texas Homebrew Circuit</title>
+    <link>http://localhost:1313/competitions/</link>
+    <description>Recent content in Competitions on North Texas Homebrew Circuit</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/competitions/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Belgian Draft Horse</title>
+      <link>http://localhost:1313/competitions/belgian-draft-horse/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/competitions/belgian-draft-horse/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;//placehold.co/600x400&#34; alt=&#34;alt&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Description&amp;hellip;&lt;/p&gt;&#xA;&lt;h3 id=&#34;competition-name&#34;&gt;Competition Name&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;item&lt;/li&gt;&#xA;&lt;li&gt;item&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>March Madness</title>
+      <link>http://localhost:1313/competitions/march-madness/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/competitions/march-madness/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;//placehold.co/600x400&#34; alt=&#34;alt&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Description&amp;hellip;&lt;/p&gt;&#xA;&lt;h3 id=&#34;competition-name&#34;&gt;Competition Name&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;item&lt;/li&gt;&#xA;&lt;li&gt;item&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Ozapft Is</title>
+      <link>http://localhost:1313/competitions/ozapft-is/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/competitions/ozapft-is/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;//placehold.co/600x400&#34; alt=&#34;alt&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Description&amp;hellip;&lt;/p&gt;&#xA;&lt;h3 id=&#34;competition-name&#34;&gt;Competition Name&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;item&lt;/li&gt;&#xA;&lt;li&gt;item&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Santa Bee</title>
+      <link>http://localhost:1313/competitions/santa-bee/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/competitions/santa-bee/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;//placehold.co/600x400&#34; alt=&#34;alt&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Description&amp;hellip;&lt;/p&gt;&#xA;&lt;h3 id=&#34;competition-name&#34;&gt;Competition Name&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;item&lt;/li&gt;&#xA;&lt;li&gt;item&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Spirit of &#39;76</title>
+      <link>http://localhost:1313/competitions/spirit-of-76/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/competitions/spirit-of-76/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/spirit_of_76.jpg&#34; alt=&#34;alt&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;The Spirit of ‘76 Homebrew Competition is a sanctioned by the American Homebrewers Association (AHA) and the Beer Judge Certification Program (BJCP). This contest is open to all amateur homebrewers age 21 and older and is restricted to non-commercial, homebrewed beers. Beer produced on the premises of commercial breweries, including brew-on-premises establishments, are not eligible.&lt;/p&gt;&#xA;&lt;p&gt;The competition goal is to celebrate American Style Beers. One may only each sub-category once. The competition will be limited to the first 300 total paid entries. Each Participant will be limited to 8 entries.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Texas Red Coat Challenge</title>
+      <link>http://localhost:1313/competitions/texas-red-coat-challenge/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/competitions/texas-red-coat-challenge/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://texasredcoat.com/static/c85b15821fc4a25939f4cbe8fb301c34/df8ac/redcoat-logo-no-label.png&#34; alt=&#34;alt&#34;&gt;&#xA;&lt;a href=&#34;https://texasredcoat.com/&#34; target=&#34;_blank&#34;&gt;Competition Site&lt;/a&gt;&#xA;The Texas Redcoat Challenge is a specialty homebrew competition focused on British beer styles and sponsored by the Denton County Homebrewers Guild. The Texas Redcoat Challenge is unique in that the BJCP styles of beers recognized as &amp;ldquo;British&amp;rdquo; in origin or inspiration are the focus, rather than just being grouped as part of the overall field of competition. We want to bring these beers back to the forefront and showcase the original American brewing tradition, helping to shine a light on these fantastic beers, the history behind them, and the brewers crafting them.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

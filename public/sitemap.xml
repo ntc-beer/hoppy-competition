@@ -79,5 +79,11 @@
   </url><url>
     <loc>http://localhost:1313/prose/</loc>
     <lastmod>2021-12-18T11:10:36+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/competitions/</loc>
+  </url><url>
+    <loc>http://localhost:1313/competitions/spirit-of-76/</loc>
+  </url><url>
+    <loc>http://localhost:1313/competitions/texas-red-coat-challenge/</loc>
   </url>
 </urlset>
