@@ -17,3 +17,9 @@ theme = "tailbliss"
   name = 'Competitions'
   pageRef = '/competitions'
   weight = 20
+
+[[redirects]]
+  from = "/"
+  to = "/about"
+  status = 301
+  force = true
