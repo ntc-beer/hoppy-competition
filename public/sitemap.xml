@@ -80,7 +80,15 @@
     <loc>http://localhost:1313/prose/</loc>
     <lastmod>2021-12-18T11:10:36+08:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/competitions/belgian-draft-horse/</loc>
+  </url><url>
     <loc>http://localhost:1313/competitions/</loc>
+  </url><url>
+    <loc>http://localhost:1313/competitions/march-madness/</loc>
+  </url><url>
+    <loc>http://localhost:1313/competitions/ozapft-is/</loc>
+  </url><url>
+    <loc>http://localhost:1313/competitions/santa-bee/</loc>
   </url><url>
     <loc>http://localhost:1313/competitions/spirit-of-76/</loc>
   </url><url>

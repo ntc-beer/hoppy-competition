@@ -13,7 +13,7 @@
       <link>http://localhost:1313/about/</link>
       <pubDate>Tue, 11 Mar 2025 10:42:16 -0500</pubDate>
       <guid>http://localhost:1313/about/</guid>
-      <description>&lt;p&gt;The North Texas Homebrew Circuit is homebrew competition circuit promoting and assisting the local &lt;em&gt;North Texas Homebrew Clubs&lt;/em&gt; with their Homebrew Competitions.&lt;/p&gt;&#xA;&lt;p&gt;Competitions:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/competitions/spirit-of-76&#34;&gt;Spirit of &amp;lsquo;76&lt;/a&gt; - &lt;a href=&#34;https://horsemenofthehops.com&#34; target=&#34;_blank&#34;&gt;Horsemen of the Hopocalypse&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://limbocomp.org/&#34; target=&#34;_blank&#34;&gt;Limbo Challenge &lt;/a&gt; - &lt;a href=&#34;https://nthba.org/&#34; target=&#34;_blank&#34;&gt;North Texas Homebrewers Association&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;O’Zapft Is - &lt;a href=&#34;https://capandhare.com/&#34; target=&#34;_blank&#34;&gt;Cap and Hare&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://texasredcoat.com/&#34; target=&#34;_blank&#34;&gt;Redcoat Challenge&lt;/a&gt; - &lt;a href=&#34;https://dchg.org/&#34; target=&#34;_blank&#34;&gt;Denton County Homebrewers Guild&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Belgian Drafthorse - &lt;a href=&#34;https:horsemenofthehops.com&#34; target=&#34;_blank&#34;&gt;Horsemen of the Hopocalypse&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Santa Bee - Cap and Hare&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;The Homebrewer of the year and Team of the year awards are sponsored by the &lt;a href=&#34;https://bbbrewoff.com/bluebonnetbrewoff/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Bluebonnet Brewoff&lt;/a&gt; and will be presented at the following year&amp;rsquo;s Bluebonnet Brewoff Awards ceremony.&lt;/p&gt;</description>
+      <description>&lt;p&gt;The North Texas Homebrew Circuit is homebrew competition circuit promoting and assisting the local &lt;em&gt;North Texas Homebrew Clubs&lt;/em&gt; with their Homebrew Competitions.&lt;/p&gt;&#xA;&lt;p&gt;Competitions:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://ntc.brewingcompetitions.com/&#34; target=&#34;\_blank&gt;March Madness Beer Bracket Challenge&lt;/a&gt;&#xA;Opens 3-3-25 live judging 4-12-25 &lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/competitions/spirit-of-76&#34;&gt;Spirit of &amp;lsquo;76&lt;/a&gt; - &lt;a href=&#34;https://horsemenofthehops.com&#34; target=&#34;_blank&#34;&gt;Horsemen of the Hopocalypse&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;O’Zapft Is - &lt;a href=&#34;https://capandhare.com/&#34; target=&#34;_blank&#34;&gt;Cap and Hare&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://texasredcoat.com/&#34; target=&#34;_blank&#34;&gt;Redcoat Challenge&lt;/a&gt; - &lt;a href=&#34;https://dchg.org/&#34; target=&#34;_blank&#34;&gt;Denton County Homebrewers Guild&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Belgian Drafthorse - &lt;a href=&#34;https:horsemenofthehops.com&#34; target=&#34;_blank&#34;&gt;Horsemen of the Hopocalypse&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.facebook.com/groups/440330594443377/&#34; target=&#34;_blank&#34;&gt;Santa Bee&lt;/a&gt; - &lt;a href=&#34;https://capandhare.com/&#34; target=&#34;_blank&#34;&gt;Cap and Hare&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;The Homebrewer of the year and Team of the year awards are sponsored by the &lt;a href=&#34;https://bbbrewoff.com/bluebonnetbrewoff/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Bluebonnet Brewoff&lt;/a&gt; and will be presented at the following year&amp;rsquo;s Bluebonnet Brewoff Awards ceremony.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Welcome</title>
@@ -135,6 +135,34 @@
       <description>&lt;h2 id=&#34;tailwindcsstypography&#34;&gt;@tailwindcss/typography&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/tailwindlabs/tailwindcss-typography&#34;&gt;View on GitHub&lt;/a&gt;!&lt;/p&gt;&#xA;&lt;p&gt;Beautiful typographic defaults for HTML you don&amp;rsquo;t control.&lt;/p&gt;&#xA;&lt;p&gt;The official Tailwind CSS Typography plugin provides a set of prose classes you can use to add beautiful typographic defaults to any vanilla HTML you don’t control, like HTML rendered from Markdown, or pulled from a CMS.&lt;/p&gt;&#xA;&lt;p&gt;Tailwind CSS IntelliSense extension for Visual Studio Code&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;&amp;lt;article class=&amp;#34;prose lg:prose-xl&amp;#34;&amp;gt;&#xD;&#xA;  {{ markdown }}&#xD;&#xA;&amp;lt;/article&amp;gt;&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;To see what it looks like in action, check out our &lt;a href=&#34;https://play.tailwindcss.com/uj1vGACRJA?layout=preview&#34;&gt;live demo&lt;/a&gt; on Tailwind Play.&#xA;​&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Belgian Draft Horse</title>
+      <link>http://localhost:1313/competitions/belgian-draft-horse/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/competitions/belgian-draft-horse/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;//placehold.co/600x400&#34; alt=&#34;alt&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Description&amp;hellip;&lt;/p&gt;&#xA;&lt;h3 id=&#34;competition-name&#34;&gt;Competition Name&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;item&lt;/li&gt;&#xA;&lt;li&gt;item&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>March Madness</title>
+      <link>http://localhost:1313/competitions/march-madness/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/competitions/march-madness/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;//placehold.co/600x400&#34; alt=&#34;alt&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Description&amp;hellip;&lt;/p&gt;&#xA;&lt;h3 id=&#34;competition-name&#34;&gt;Competition Name&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;item&lt;/li&gt;&#xA;&lt;li&gt;item&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Ozapft Is</title>
+      <link>http://localhost:1313/competitions/ozapft-is/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/competitions/ozapft-is/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;//placehold.co/600x400&#34; alt=&#34;alt&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Description&amp;hellip;&lt;/p&gt;&#xA;&lt;h3 id=&#34;competition-name&#34;&gt;Competition Name&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;item&lt;/li&gt;&#xA;&lt;li&gt;item&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Santa Bee</title>
+      <link>http://localhost:1313/competitions/santa-bee/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/competitions/santa-bee/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;//placehold.co/600x400&#34; alt=&#34;alt&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Description&amp;hellip;&lt;/p&gt;&#xA;&lt;h3 id=&#34;competition-name&#34;&gt;Competition Name&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;item&lt;/li&gt;&#xA;&lt;li&gt;item&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
       <title>Spirit of &#39;76</title>
       <link>http://localhost:1313/competitions/spirit-of-76/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -146,7 +174,7 @@
       <link>http://localhost:1313/competitions/texas-red-coat-challenge/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/competitions/texas-red-coat-challenge/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;//placehold.co/600x400&#34; alt=&#34;alt&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;The Texas Redcoat Challenge is a specialty homebrew competition focused on British beer styles and sponsored by the Denton County Homebrewers Guild. The Texas Redcoat Challenge is unique in that the BJCP styles of beers recognized as &amp;ldquo;British&amp;rdquo; in origin or inspiration are the focus, rather than just being grouped as part of the overall field of competition. We want to bring these beers back to the forefront and showcase the original American brewing tradition, helping to shine a light on these fantastic beers, the history behind them, and the brewers crafting them.&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;https://texasredcoat.com/static/c85b15821fc4a25939f4cbe8fb301c34/df8ac/redcoat-logo-no-label.png&#34; alt=&#34;alt&#34;&gt;&#xA;&lt;a href=&#34;https://texasredcoat.com/&#34; target=&#34;_blank&#34;&gt;Competition Site&lt;/a&gt;&#xA;The Texas Redcoat Challenge is a specialty homebrew competition focused on British beer styles and sponsored by the Denton County Homebrewers Guild. The Texas Redcoat Challenge is unique in that the BJCP styles of beers recognized as &amp;ldquo;British&amp;rdquo; in origin or inspiration are the focus, rather than just being grouped as part of the overall field of competition. We want to bring these beers back to the forefront and showcase the original American brewing tradition, helping to shine a light on these fantastic beers, the history behind them, and the brewers crafting them.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
