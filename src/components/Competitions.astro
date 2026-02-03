@@ -4,36 +4,57 @@ import competitionData from "../config/competitions.json";
 const competitions = competitionData.competitions;
 ---
 
-<div class="competitions">
-  <h1>Competitions</h1>
-
-  {
-    competitions.map((competition) => (
-      <div class="competition">
-        <h2>{competition.name}</h2>
-        <p>
-          <strong>Registration Opens:</strong> {competition.openDate}
-        </p>
-        <p>
-          <strong>Registration Closes:</strong> {competition.closeDate}
-        </p>
-        <p />
-        <p>
-          <strong>Awards Date:</strong> {competition.awardsDate}
-        </p>
-        <p>
-          <strong>Location:</strong> {competition.location}
-        </p>
-        <p>
-          <a
-            href={competition.infoLink}
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Official Website
-          </a>
-        </p>
-      </div>
-    ))
-  }
+<div class="max-w-5xl mx-auto p-4">
+  <h1 class="mb-5 text-2xl font-bold text-gray-900 dark:text-white">
+    Competitions
+  </h1>
+  <ul class="grid w-full justify-between gap-2 md:grid-cols-2">
+    {
+      competitions.map((competition) => (
+        <a
+          href={`${competition.infoLink}`}
+          target="_blank"
+          rel="noopener noreferrer"
+          class="flex flex-col items-center bg-neutral-primary-soft p-6 border border-default rounded-base shadow-xs md:flex-row md:max-w-xl md:flex-row md:max-w-xl"
+        >
+          <img
+            class="object-cover w-full rounded-base h-64 md:h-auto md:w-48 mb-4 md:mb-0"
+            src={`${competition.image}`}
+            alt=""
+          />
+          <div class="flex flex-col justify-between md:p-4 leading-normal">
+            <h5 class="mb-2 text-2xl font-bold tracking-tight text-heading">
+              {competition.name}
+            </h5>
+            <p class="mb-6 text-body" set:html={competition.description} />
+            <div>
+              <button
+                type="button"
+                class="inline-flex items-center w-auto text-body bg-neutral-secondary-medium box-border border border-default-medium hover:bg-neutral-tertiary-medium hover:text-heading focus:ring-4 focus:ring-neutral-tertiary shadow-xs font-medium leading-5 rounded-base text-sm px-4 py-2.5 focus:outline-none"
+              >
+                Read more
+                <svg
+                  class="w-4 h-4 ms-1.5 rtl:rotate-180 -me-0.5"
+                  aria-hidden="true"
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="24"
+                  height="24"
+                  fill="none"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    stroke="currentColor"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    stroke-width="2"
+                    d="M19 12H5m14 0-4 4m4-4-4-4"
+                  />
+                </svg>
+              </button>
+            </div>
+          </div>
+        </a>
+      ))
+    }
+  </ul>
 </div>

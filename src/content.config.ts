@@ -22,8 +22,10 @@ const competitions = defineCollection({
     closeDate: z.string(),
     awardsDate: z.string().optional(),
     location: z.string().optional(),
+    description: z.string().optional(),
     club: z.string().optional(),
-    infoLink: z.string().url().optional()
+    infoLink: z.string().url().optional(),
+    image: z.string().optional()
   })
 });
 

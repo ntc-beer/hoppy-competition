@@ -6,8 +6,10 @@
       "closeDate":"April 13, 2026",
       "awardsDate":"TBD",
       "location":"TBD",
+      "description":"Two styles enter, one style leaves! The Bracket Challenge is a head-to-head competition where beers go up against each other in a knockout format until a champion is crowned.",
       "club":"Horsemen of the Hopocalypse",
-      "infoLink":"https://brewingcompetitions.com/ntc/"
+      "infoLink":"https://brewingcompetitions.com/ntc/",
+      "image":"/images/bracketchallenge.jpg"
     },
     {
       "name":"Spirit of '76",
@@ -15,8 +17,10 @@
       "closeDate":"May 8, 2026",
       "awardsDate":"September 12, 2026",
       "location":"TBD",
+      "description":"Celebrate American brewing heritage with the Spirit of '76 competition, focusing on traditional <em>American</em> beer styles that embody the pioneering spirit of 1776.",
       "club":"Horsemen of the Hopocalypse",
-      "infoLink":"https://www.facebook.com/groups/1261488647707658"
+      "infoLink":"https://www.facebook.com/groups/1261488647707658",
+      "image":"/images/spiritof76.jpg"
     },
     {
     "name":"Ozapft is!",
@@ -24,8 +28,10 @@
     "closeDate":"August 14, 2026",
     "awardsDate":"September 12, 2026",
     "location":"TBD",
+    "description": "A homebrew competition for all German beer styles. Including most rare German beer styles and German inspired fruit, spice and experimental categories",
     "club":"Cap & Hare",
-    "infoLink":"https://www.facebook.com/groups/267010032186766/"
+    "infoLink":"https://www.facebook.com/groups/267010032186766/",
+    "image":"/images/ozpftis.jpg"
     },
     {
     "name":"Draft Horse",
@@ -33,8 +39,10 @@
     "closeDate":"October 2, 2026",
     "awardsDate":"November 7, 2026",
     "location":"Sinaca Studios, Ft Worth, TX",
+    "description": "The competition goal is to celebrate Belgian Style Beers and all their wonderful variations. From the light and effervescent to the dark and complex, Belgian beers offer a rich tapestry of flavors that captivate the palate.",
     "club":"Horsemen of the Hopocalypse",
-    "infoLink":"https://www.facebook.com/groups/1173906616385675/"
+    "infoLink":"https://www.facebook.com/groups/1173906616385675/",
+    "image":"/images/drafthorse.jpg"
     },
     {
     "name":"Redcoat Challenge",
@@ -42,8 +50,10 @@
     "closeDate":"September 26th, 2026",
     "awardsDate":"November 7, 2026",
     "location":"Denton County Brewing Company, Denton, TX",
+    "description":"The Redcoat Challenge is a homebrew competition that celebrates British beer styles, inviting brewers to showcase their skills in crafting traditional and innovative brews inspired by the rich brewing heritage of the British Isles and Commonwealth Nations.",
     "club":"Denton County Homebrewers Guild",
-    "infoLink":"https://texasredcoat.com/"
+    "infoLink":"https://texasredcoat.com/",
+    "image":"/images/redcoat-logo-no-label.webp"
     },
     {
     "name":"Santa Bee",
@@ -51,8 +61,10 @@
     "closeDate":"November 12th, 2026",
     "awardsDate":"December 12th, 2026",
     "location":"TBD",
+    "description":"The competition goal is to celebrate Mead in all its wonderful variations. From the traditional to the experimental, mead offers a rich tapestry of flavors that captivate the palate.",
     "club":"Horsemen of the Hopocalypse",
-    "infoLink":"https://www.facebook.com/groups/440330594443377"
+    "infoLink":"https://www.facebook.com/groups/440330594443377",
+    "image":"/images/santabee.jpg"
     }
   ]
 }
