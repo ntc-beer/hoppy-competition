@@ -1,0 +1,58 @@
+{
+  "competitions": [
+    {
+      "name": "Bracket Challenge",
+      "openDate":"March 3, 2026",
+      "closeDate":"April 13, 2026",
+      "awardsDate":"TBD",
+      "location":"TBD",
+      "club":"Horsemen of the Hopocalypse",
+      "infoLink":"https://brewingcompetitions.com/ntc/"
+    },
+    {
+      "name":"Spirit of '76",
+      "openDate":"April 25, 2026",
+      "closeDate":"May 8, 2026",
+      "awardsDate":"September 12, 2026",
+      "location":"TBD",
+      "club":"Horsemen of the Hopocalypse",
+      "infoLink":"https://www.facebook.com/groups/1261488647707658"
+    },
+    {
+    "name":"Ozapft is!",
+    "openDate":"August 1, 2026",
+    "closeDate":"August 14, 2026",
+    "awardsDate":"September 12, 2026",
+    "location":"TBD",
+    "club":"Cap & Hare",
+    "infoLink":"https://www.facebook.com/groups/267010032186766/"
+    },
+    {
+    "name":"Draft Horse",
+    "openDate":"September 19, 2026",
+    "closeDate":"October 2, 2026",
+    "awardsDate":"November 7, 2026",
+    "location":"Sinaca Studios, Ft Worth, TX",
+    "club":"Horsemen of the Hopocalypse",
+    "infoLink":"https://www.facebook.com/groups/1173906616385675/"
+    },
+    {
+    "name":"Redcoat Challenge",
+    "openDate":"September 5th, 2026",
+    "closeDate":"September 26th, 2026",
+    "awardsDate":"November 7, 2026",
+    "location":"Denton County Brewing Company, Denton, TX",
+    "club":"Denton County Homebrewers Guild",
+    "infoLink":"https://texasredcoat.com/"
+    },
+    {
+    "name":"Santa Bee",
+    "openDate":"November 2nd, 2026",
+    "closeDate":"November 12th, 2026",
+    "awardsDate":"December 12th, 2026",
+    "location":"TBD",
+    "club":"Horsemen of the Hopocalypse",
+    "infoLink":"https://www.facebook.com/groups/440330594443377"
+    }
+  ]
+}

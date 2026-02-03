@@ -1,0 +1,23 @@
+---
+import clubData from "../config/clubs.json";
+
+const clubs = clubData.clubs;
+---
+
+<div class="yada-yadda">
+  <h1>Member Clubs</h1>
+  <ul>
+    {
+      clubs.map((club) => (
+        <li>
+          <h2>{club.name}</h2>
+          <p>
+            <a href={club.website} target="_blank" rel="noopener noreferrer">
+              {club.name} Website
+            </a>
+          </p>
+        </li>
+      ))
+    }
+  </ul>
+</div>

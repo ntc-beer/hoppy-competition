@@ -1,0 +1,39 @@
+---
+import competitionData from "../config/competitions.json";
+
+const competitions = competitionData.competitions;
+---
+
+<div class="competitions">
+  <h1>Competitions</h1>
+
+  {
+    competitions.map((competition) => (
+      <div class="competition">
+        <h2>{competition.name}</h2>
+        <p>
+          <strong>Registration Opens:</strong> {competition.openDate}
+        </p>
+        <p>
+          <strong>Registration Closes:</strong> {competition.closeDate}
+        </p>
+        <p />
+        <p>
+          <strong>Awards Date:</strong> {competition.awardsDate}
+        </p>
+        <p>
+          <strong>Location:</strong> {competition.location}
+        </p>
+        <p>
+          <a
+            href={competition.infoLink}
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Official Website
+          </a>
+        </p>
+      </div>
+    ))
+  }
+</div>
