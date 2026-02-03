@@ -1,5 +1,6 @@
 ---
 import "../styles/global.css";
+import Header from "../components/Header.astro";
 ---
 
 <!doctype html>
@@ -16,15 +17,17 @@ import "../styles/global.css";
 	<body>
 		<div class="viewport-container">
 			<!-- Top Navigation -->
-			<header>header</header>
+			<Header />
 
-			<main>
-				main
+			<main class="mt-24 p-2">
 				<slot />
 			</main>
+			<!-- Footer -->
+			<footer>footer</footer>
 		</div>
-
-		<!-- Footer -->
-		<footer>footer</footer>
+		<script
+			is:inline
+			src="https://cdn.jsdelivr.net/npm/flowbite@4.0.1/dist/flowbite.min.js"
+		></script>
 	</body>
 </html>

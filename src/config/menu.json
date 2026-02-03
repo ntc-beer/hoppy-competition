@@ -1,0 +1,15 @@
+{
+  "main":[
+    {
+      "name": "About",
+      "url": "/"},
+    {
+      "name": "Clubs",
+      "url": "/clubs"
+    },
+    {
+      "name": "Competitions",
+      "url": "/competitions"
+    }
+  ]
+}
