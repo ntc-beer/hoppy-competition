@@ -1,6 +1,7 @@
 ---
+import type { MenuData } from "../types/data";
 import menu from "../config/menu.json";
-const { main: navs } = menu;
+const { main: navs } = menu as MenuData;
 ---
 
 <nav

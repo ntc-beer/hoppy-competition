@@ -7,7 +7,15 @@ import { glob, file } from 'astro/loaders';
 import { z } from 'astro/zod';
 
 const clubs = defineCollection({
-  loader: file("../config/clubs.json"),
+  loader: file("src/config/clubs.json", { 
+    parser: (text) => {
+      const data = JSON.parse(text);
+      return data.clubs.map((club: any, index: number) => ({
+        id: club.name.toLowerCase().replace(/\s+/g, '-'),
+        ...club
+      }));
+    }
+  }),
   schema: z.object({
     name: z.string(),
     website: z.string().url().optional(),
@@ -16,7 +24,15 @@ const clubs = defineCollection({
 });
 
 const competitions = defineCollection({
-  loader: file("../config/competitions.json"),
+  loader: file("src/config/competitions.json", { 
+    parser: (text) => {
+      const data = JSON.parse(text);
+      return data.competitions.map((comp: any, index: number) => ({
+        id: comp.name.toLowerCase().replace(/\s+/g, '-'),
+        ...comp
+      }));
+    }
+  }),
   schema: z.object({
     name: z.string(),
     openDate: z.string(),
@@ -31,4 +47,5 @@ const competitions = defineCollection({
 });
 
 export const collections = {clubs, competitions};
+
 

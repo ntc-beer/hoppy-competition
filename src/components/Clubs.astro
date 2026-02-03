@@ -1,7 +1,7 @@
 ---
-import clubData from "../config/clubs.json";
+import { getCollection } from "astro:content";
 
-const clubs = clubData.clubs;
+const clubs = await getCollection("clubs");
 ---
 
 <div class="max-w-5xl mx-auto p-4">
@@ -14,12 +14,12 @@ const clubs = clubData.clubs;
         <div class="bg-neutral-primary-soft block max-w-sm p-6 border border-default rounded-base shadow-xs">
           <a href="#">
             <h5 class="mb-2 text-2xl font-semibold tracking-tight text-heading">
-              {club.name}
+              {club.data.name}
             </h5>
           </a>
-          <p class="mb-3 text-body" set:html={club.description} />
+          <p class="mb-3 text-body" set:html={club.data.description} />
           <a
-            href={`${club.website}`}
+            href={`${club.data.website}`}
             target="_blank"
             rel="noopener noreferrer"
             class="inline-flex font-medium items-center text-fg-brand hover:underline"
