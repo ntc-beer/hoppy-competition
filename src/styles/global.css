@@ -21,6 +21,7 @@ body::before {
   background-image: url('/images/hops_grain_fermenter.png');
   background-repeat: no-repeat;
   background-size: cover;
+  background-position: center;
   filter: blur(6px);
   filter: opacity(0.2);
   z-index: -1;
