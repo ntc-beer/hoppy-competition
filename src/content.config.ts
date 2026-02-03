@@ -10,7 +10,8 @@ const clubs = defineCollection({
   loader: file("../config/clubs.json"),
   schema: z.object({
     name: z.string(),
-    website: z.string().url().optional()
+    website: z.string().url().optional(),
+    description: z.string().optional(),
   })
 });
 

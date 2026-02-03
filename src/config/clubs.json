@@ -1,15 +1,24 @@
 {
   "clubs": [
   {
-    "name": "Horsemen of the Hopocalypse", "website": "https://www.horsemenofthehops.com"
+    "name": "Horsemen of the Hopocalypse", 
+    "website": "https://www.horsemenofthehops.com",
+    "description": "We are a homebrew club where beer enthusiasts and hobbyists come together to share their passion for brewing and everything related to beer. We meet to exchange tips, techniques, and ideas on how to create the perfect pint. Join us today and discover the joy of homebrewing in Fort Worth!"
+
   },
   {
-    "name": "North Texas Homebrewers Association", "website": "https://nthba.org"
+    "name": "North Texas Homebrewers Association", 
+    "website": "https://nthba.org",
+    "description": "The North Texas Homebrewers Association (NTHBA) is a group of homebrewers living in North Texas (mostly, but not limited to, Dallas and northern suburbs). We are interested in making beer, mead, cider, wine, and other fermented beverages at home."
   },
   {
-    "name": "Denton County Homebrewers Guild", "website": "https://denton-county-homebrewers-guild.github.io/Home/"
+    "name": "Denton County Homebrewers Guild", 
+    "website": "https://denton-county-homebrewers-guild.github.io/Home/",
+    "description": "The DCHG was created to fill a void in the Denton area for home brewers to come together with the common interest in brewing handcrafted beer in their own homes as well as help each other and their community"
   },
   {
-    "name": "Cap & Hare", "website": "https://https://capandhare.com/"
+    "name": "Cap & Hare", 
+    "website": "https://https://capandhare.com/",
+    "description":"We hold monthly meetings that feature presentations about brewing beer, with occasional discussions about making cider, mead, or wine. Members and guests are encouraged to bring samples of their own homebrew to the meeting to share with others. Our meetings are a great place to socialize with others with an interest in homebrewing, while also learning how to begin or improve your own homebrewing."
   }]
 }
