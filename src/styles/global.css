@@ -29,13 +29,15 @@ body::before {
 
 /* Lighten card backgrounds for transparency */
 .bg-neutral-primary-soft {
-  background-color: rgba(255, 255, 255, 0.7) !important;
+  background-color: rgba(255, 255, 255, 0.9) !important;
   backdrop-filter: blur(10px);
+  color: rgb(31, 41, 55) !important;
 }
 
-/* Dark mode support */
+/* Dark mode support - use lighter background for better readability */
 @media (prefers-color-scheme: dark) {
   .bg-neutral-primary-soft {
-    background-color: rgba(30, 30, 30, 0.75) !important;
+    background-color: rgba(255, 255, 255, 0.85) !important;
+    color: rgb(31, 41, 55) !important;
   }
 }
