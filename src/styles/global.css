@@ -26,3 +26,16 @@ body::before {
   filter: opacity(0.2);
   z-index: -1;
 }
+
+/* Lighten card backgrounds for transparency */
+.bg-neutral-primary-soft {
+  background-color: rgba(255, 255, 255, 0.7) !important;
+  backdrop-filter: blur(10px);
+}
+
+/* Dark mode support */
+@media (prefers-color-scheme: dark) {
+  .bg-neutral-primary-soft {
+    background-color: rgba(30, 30, 30, 0.75) !important;
+  }
+}
