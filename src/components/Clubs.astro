@@ -1,7 +1,7 @@
 ---
-import { getCollection } from "astro:content";
+import clubData from "../config/clubs.json";
 
-const clubs = await getCollection("clubs");
+const clubs = clubData.clubs;
 ---
 
 <div class="max-w-5xl mx-auto p-4">
@@ -11,15 +11,15 @@ const clubs = await getCollection("clubs");
   <ul class="grid w-full justify-between gap-2 md:grid-cols-2">
     {
       clubs.map((club) => (
-        <div class="bg-neutral-primary-soft block max-w-sm p-6 border border-default rounded-base shadow-xs">
+        <div class="flex flex-col bg-neutral-primary-soft p-6 border border-default rounded-base shadow-xs">
           <a href="#">
             <h5 class="mb-2 text-2xl font-semibold tracking-tight text-heading">
-              {club.data.name}
+              {club.name}
             </h5>
           </a>
-          <p class="mb-3 text-body" set:html={club.data.description} />
+          <p class="mb-3 text-body" set:html={club.description} />
           <a
-            href={`${club.data.website}`}
+            href={`${club.website}`}
             target="_blank"
             rel="noopener noreferrer"
             class="inline-flex font-medium items-center text-fg-brand hover:underline"
