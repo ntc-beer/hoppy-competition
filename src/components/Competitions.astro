@@ -26,7 +26,13 @@ const competitions = await getCollection("competitions");
             <h5 class="mb-2 text-2xl font-bold tracking-tight text-heading">
               {competition.data.name}
             </h5>
-            <p class="mb-6 text-body" set:html={competition.data.description} />
+            <p class="text-success">Opens: {competition.data.openDate}</p>
+            <p class="text-danger">Closes: {competition.data.closeDate}</p>
+            <p class="text-brand">Awards: {competition.data.awardsDate}</p>
+            <p
+              class="mb-4 mt-4 text-body"
+              set:html={competition.data.description}
+            />
             <div>
               <button
                 type="button"
