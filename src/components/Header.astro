@@ -16,14 +16,14 @@ const { main: navs } = menu as MenuData;
         class="h-20"
         alt="North Texas Homebrew Circuit Logo"
       />
-      <span class="text-xl text-heading font-semibold whitespace-nowrap"
+      <span class="text-xl text-navbar-text font-semibold whitespace-nowrap"
         >North Texas Circuit</span
       >
     </a>
     <button
       data-collapse-toggle="navbar-default"
       type="button"
-      class="inline-flex items-center p-2 w-10 h-10 justify-center text-sm text-body rounded-base md:hidden hover:bg-neutral-secondary-soft hover:text-heading focus:outline-none focus:ring-2 focus:ring-neutral-tertiary"
+      class="inline-flex items-center p-2 w-10 h-10 justify-center text-sm text-navbar-text rounded-base md:hidden hover:bg-neutral-secondary-soft hover:text-heading focus:outline-none focus:ring-2 focus:ring-neutral-tertiary"
       aria-controls="navbar-default"
       aria-expanded="false"
     >
@@ -51,7 +51,7 @@ const { main: navs } = menu as MenuData;
           navs.map((item) => (
             <li>
               <a
-                class="block py-2 px-3 text-black rounded md:bg-transparent md:text-fg-brand md:p-0"
+                class="block py-2 px-3 text-navbar-text rounded md:bg-transparent md:text-navbar-text md:p-0"
                 href={item.url}
               >
                 {item.name}

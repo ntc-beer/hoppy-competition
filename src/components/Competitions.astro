@@ -15,7 +15,7 @@ const competitions = await getCollection("competitions");
           href={`${competition.data.infoLink}`}
           target="_blank"
           rel="noopener noreferrer"
-          class="flex flex-col items-center bg-neutral-primary-soft p-6 border border-default rounded-base shadow-xs md:flex-row md:max-w-xl md:flex-row md:max-w-xl"
+          class="flex flex-col items-center bg-neutral-primary-soft p-6 border border-[#D96907] rounded-base shadow-xs md:flex-row md:max-w-xl md:flex-row md:max-w-xl opacity-[.7]"
         >
           <img
             class="object-cover w-full rounded-base h-64 md:h-auto md:w-48 mb-4 md:mb-0"
@@ -23,12 +23,16 @@ const competitions = await getCollection("competitions");
             alt=""
           />
           <div class="flex flex-col justify-between md:p-4 leading-normal">
-            <h5 class="mb-2 text-2xl font-bold tracking-tight text-heading">
+            <h5 class="mb-2 text-2xl font-bold tracking-tight text-club-border">
               {competition.data.name}
             </h5>
-            <p class="text-success">Opens: {competition.data.openDate}</p>
-            <p class="text-danger">Closes: {competition.data.closeDate}</p>
-            <p class="text-brand">Awards: {competition.data.awardsDate}</p>
+            <p class="text-registration-open">
+              Opens: {competition.data.openDate}
+            </p>
+            <p class="text-registration-close">
+              Closes: {competition.data.closeDate}
+            </p>
+            <p class="text-awards-day">Awards: {competition.data.awardsDate}</p>
             <p
               class="mb-4 mt-4 text-body"
               set:html={competition.data.description}

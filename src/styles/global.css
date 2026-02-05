@@ -3,6 +3,14 @@
 @plugin "flowbite/plugin";
 @source "../../node_modules/flowbite";
 
+@theme {
+  --color-navbar-text: #8C2703;
+  --color-registration-open: #A1A626;
+  --color-registration-close: #F28B0C;
+  --color-club-header: #8C2703;
+  --color-awards-day: #8C2703;
+  --color-club-border:#A1A626;
+}
 
 body {
   margin: 0;
